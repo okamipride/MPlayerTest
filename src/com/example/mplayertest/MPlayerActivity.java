@@ -25,7 +25,7 @@ public class MPlayerActivity extends Activity {
         button.setOnClickListener(new OnClickListener() {
             public void onClick(View arg0) {
  
-              
+              //start video play
                 Intent myIntent = new Intent(MPlayerActivity.this,
                         VideoViewActivity.class);
                 startActivity(myIntent);
