@@ -60,8 +60,8 @@ public class MPlayerActivity extends Activity {
         // Capture button clicks
         button.setOnClickListener(new OnClickListener() {
             public void onClick(View arg0) {
- 
-            	/*
+
+                /*
                 Intent myIntent = new Intent(MPlayerActivity.this,
                         VideoViewActivity.class);
                 */
