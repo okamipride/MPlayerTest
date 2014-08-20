@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\res" >
+            <file
+                name="ic_launcher"
+                path="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_mplayer"
+                path="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\res\layout\activity_mplayer.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="video_view"
+                path="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\res\layout\video_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="video_h264"
+                path="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\res\raw\video_h264.mp4"
+                qualifiers=""
+                type="raw" />
+            <file
+                path="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\res\values\strings.xml"
+                qualifiers="" >
+                <string name="button" >play video
+                </string>
+                <string name="app_name" >MPlayerTest
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                path="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\build\generated\res\rs\debug" />
+        <source path="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\build-types\debug\res" />
+    </dataSet>
+
+</merger>

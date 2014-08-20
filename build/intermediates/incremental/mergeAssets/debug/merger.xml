@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\assets" >
+            <file
+                name="testjs.js"
+                path="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\assets\testjs.js" />
+            <file
+                name="video_h264.mp4"
+                path="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\assets\video_h264.mp4" />
+            <file
+                name="YoutubeLive.js"
+                path="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\assets\YoutubeLive.js" />
+            <file
+                name="youtubelivetest.txt"
+                path="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\assets\youtubelivetest.txt" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\build-types\debug\assets" />
+    </dataSet>
+
+</merger>

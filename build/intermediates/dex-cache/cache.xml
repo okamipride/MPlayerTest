@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\build\intermediates\pre-dexed\debug\android-support-v4-f2bd215acc8bc7c5b0c70ba287396563361a0267.jar"
+        jar="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507"/>
+    <item
+        dex="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\build\intermediates\pre-dexed\debug\js-d5a53333d9a139971b9c0b1f257e2b35142984dd.jar"
+        jar="C:\Users\rachael\workspace\worktest\workspace_mediaplayer\MPlayerTest\libs\js.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e982f2136574b9a423186fbaeaaa98dc3e5a5288"/>
+
+</pre-dex-items>
